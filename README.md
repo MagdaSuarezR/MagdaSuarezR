@@ -3,7 +3,7 @@
 
 ### Sobre mí...
 ⚙️ | Soy estudiante de ingeniería civil <br>
-✨ | Aprendiendo QGIS
+🌐 | Aprendiendo QGIS
 
 ### Teconlogías
 🏡 | Revit <br>
